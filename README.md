@@ -22,6 +22,8 @@ brasileiro](LICENSE-pt_BR.md)).
 Instalação
 ----------
 
+**Requer navegador Firefox**, não compatível com Chrome ou outros navegadores.
+
 <span class="install-link">
 [Clique aqui para instalar!!1](https://github.com/pudiva/ar-enviator/releases/download/v0.0.0/ar-enviator-0.0.0-an+fx.xpi)
 </span>
