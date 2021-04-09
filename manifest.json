@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AR Enviator!!1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extensão de navegador para auxiliar no envio de citações e intimações por carta nacional com aviso de recebimento (AR) através do sistema do sistema de postagem eletrônico.",
   "homepage_url": "https://ar-enviator.skylittlesystem.org/",
   "author": "PUDIVA",

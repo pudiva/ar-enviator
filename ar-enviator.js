@@ -37,7 +37,7 @@ function fill()
   m = txt.match(/n.mero do processo:\s*([0-9]*-[0-9]{2})/i);
   x["n_processo"] = m[1].trim();
 
-  m = txt.match(/ju.z.*determina.*(cita..o|intima..o) d. ([^\n-]+-?[^\n,-]*)(\n|-|,)(.+),([^,-]+)-([^,-]+)-\s*CEP:([ :0-9-]+)/i);
+  m = txt.match(/.*determina.*(cita..o|intima..o) d. ([^\n-]+-?[^\n,-]*)(\n|-|,)(.+),([^,-]+)-([^,-]+)-\s*CEP:([ :0-9-]+)/i);
   x["tipo"] = m[1].trim();
   x["nome"] = m[2].trim();
   x["endereco"] = m[4].trim();
