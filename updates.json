@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "{09a2271b-3d1f-451c-a7f0-d0ef4400ea3e}":{
+      "updates": [
+        {
+          "version": "0.0.0",
+          "update_link": "https://github.com/pudiva/ar-enviator/releases/download/v0.0.0/ar-enviator-0.0.0-an+fx.xpi"
+        },
+        {
+          "version": "0.0.1",
+          "update_link": "https://github.com/pudiva/ar-enviator/releases/download/v0.0.1/ar-enviator-0.0.1-an+fx.xpi"
+        }
+      ]
+    }
+  }
+}
